@@ -1,0 +1,15 @@
+ .background-color {
+            background-color: #b7b7cf;
+        }
+        .center {
+            display: flex;
+            justify-content: center;
+        }
+        .margin-top100 {
+            margin-top: 100px;
+        }
+        .timer {
+            font-size: 60px;
+            color: white;
+            font-family: 'Roboto', sans-serif;
+        }
